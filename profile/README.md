@@ -24,7 +24,7 @@ SanctumTerra is an organization dedicated to creating libs and tools for MCBE or
 
 | Project | Description |
 |:-------:|:-----------:|
-|[<br>**Client**](https://github.com/SanctumTerra/Client) | Powerful Minecraft Bedrock<br>bot client library |
+|[<br>**Client**](https://github.com/SanctumTerra/Client) | Powerful Minecraft Bedrock<br>bot client library, We've moved to new repo Baltica|
 |[<br>**Baltica**](https://github.com/SanctumTerra/Baltica) | Minecraft Bedrock toolset, Client, Proxy, Bare Bones Server. |
 </div>
 
